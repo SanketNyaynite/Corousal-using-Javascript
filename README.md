@@ -1,1 +1,1 @@
-# Heartbeat-Corousal-using-Javascript
+#Corousal-using-Javascript
